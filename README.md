@@ -3,6 +3,7 @@
 - 🌱 I’m Data science enthusiast and python developer
 - 💞️ I’m looking to collaborate on ... shaping the future by using data science
 - 📫 How to reach me ...8888877746, rrp30997@gmail.com
+- linkedin https://www.linkedin.com/in/therahulpatil
 
 <!---
 rrpatil-1/rrpatil-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
